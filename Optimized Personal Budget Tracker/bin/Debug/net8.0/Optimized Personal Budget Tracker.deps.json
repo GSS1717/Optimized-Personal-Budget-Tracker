@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Optimized Personal Budget Tracker/1.0.0": {
+        "runtime": {
+          "Optimized Personal Budget Tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optimized Personal Budget Tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
