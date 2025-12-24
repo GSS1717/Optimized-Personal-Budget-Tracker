@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|e:\\optimized-personal-budget-tracker\\optimized personal budget tracker\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|e:\\optimized-personal-budget-tracker\\optimized personal budget tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:42:33.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:38:52.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
