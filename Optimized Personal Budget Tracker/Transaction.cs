@@ -69,7 +69,7 @@ namespace Optimized_Personal_Budget_Tracker
         public override string ToString()
         {
             // We use string interpolation and format specifiers to create a neat, aligned output.
-            return $"{Date:yyyy-MM-dd} | {Type,-8} | {Amount,12:C} | {Category,-15} | {Description}";
+            return $"{Date:dd-MM-yyyy} | {Type,-8} | {Amount,12:C} | {Category,-15} | {Description}";
         }
     }
 }
