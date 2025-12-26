@@ -22,4 +22,15 @@ private static readonly BudgetService _budgetService = new BudgetService(loadedT
 Console.WriteLine("Welcome to the Personal Budget Tracker!");
 Console.WriteLine("All data has been loaded successfully.");
 
-// In the next tasks, we will build out the main application loop here.
+// This is the main application loop. It will run indefinitely until the user
+// chooses to exit, which we will implement later.
+while (true)
+{
+    // In the upcoming tasks, this is where we will clear the console,
+    // display the menu, and handle user input.
+
+    // For now, this loop is the foundational structure that keeps our application alive.
+    // We'll add a temporary halt to prevent it from spinning infinitely fast
+    // and consuming CPU. This line can be removed once we add input handling.
+    System.Threading.Thread.Sleep(5000); // Wait for 5 seconds
+}
