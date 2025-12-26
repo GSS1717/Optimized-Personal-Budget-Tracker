@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|e:\\optimized-personal-budget-tracker\\optimized personal budget tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|e:\\optimized-personal-budget-tracker\\optimized personal budget tracker\\datastorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E54EA0-4729-4A9B-BE99-974863C0964B}|Optimized Personal Budget Tracker.csproj|solutionrelative:datastorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:33:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DataStorageService.cs",
               "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\DataStorageService.cs",
               "RelativeDocumentMoniker": "DataStorageService.cs",
               "ToolTip": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\DataStorageService.cs",
               "RelativeToolTip": "DataStorageService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAwEoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T10:31:05.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BudgetService.cs",
               "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\BudgetService.cs",
               "RelativeDocumentMoniker": "BudgetService.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "BudgetService.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAwwF0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T09:37:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T09:37:15.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Transaction.cs",
               "RelativeDocumentMoniker": "Transaction.cs",
