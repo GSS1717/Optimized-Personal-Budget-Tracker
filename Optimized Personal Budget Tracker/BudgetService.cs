@@ -18,6 +18,11 @@ namespace Optimized_Personal_Budget_Tracker
         // It's initialized here to ensure it's never null.
         private readonly List<Transaction> _transactions = new List<Transaction>();
 
+        public BudgetService(List<Transaction> intialTransaction)
+        {
+            _transactions = intialTransaction ?? new List<Transaction>();
+        }
+
         /// <summary>
         /// Adds a new transaction to the service's internal list.
         /// This is the primary method for introducing new data into the budget.
