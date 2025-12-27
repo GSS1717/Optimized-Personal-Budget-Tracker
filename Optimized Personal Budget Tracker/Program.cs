@@ -46,5 +46,78 @@ while (true)
     string userChoice = Console.ReadLine();
     // The code to read and handle user input will go here in the next task.
     // For now, we will add a temporary ReadKey to pause the loop.
+    switch (userChoice)
+    {
+        case "1":
+            HandleAddIncome();
+            break; // 'break' is essential to exit the switch block
+        case "2":
+            HandleAddExpense();
+            break;
+        case "3":
+            DisplayAllTransactions();
+            break;
+        case "4":
+            DisplaySummary();
+            break;
+        case "5":
+            // We will implement the save and exit logic in a later task.
+            // For now, it's a placeholder.
+            Console.WriteLine("Saving and exiting... Feature to be implemented.");
+            Console.ReadKey();
+            break;
+        default:
+            // The default case handles any input that doesn't match a case.
+            Console.WriteLine("Invalid option. Please try again.");
+            Console.ReadKey(); // Pause to let the user read the message
+            break;
+    }
+}
+
+#region Menu Action Methods
+
+/// <summary>
+/// Placeholder method for handling the 'Add Income' action.
+/// </summary>
+private static void HandleAddIncome()
+{
+    Console.Clear();
+    Console.WriteLine("Add Income feature is not yet implemented.");
+    Console.WriteLine("Press any key to return to the menu.");
     Console.ReadKey();
 }
+
+/// <summary>
+/// Placeholder method for handling the 'Add Expense' action.
+/// </summary>
+private static void HandleAddExpense()
+{
+    Console.Clear();
+    Console.WriteLine("Add Expense feature is not yet implemented.");
+    Console.WriteLine("Press any key to return to the menu.");
+    Console.ReadKey();
+}
+
+/// <summary>
+/// Placeholder method for displaying all transactions.
+/// </summary>
+private static void DisplayAllTransactions()
+{
+    Console.Clear();
+    Console.WriteLine("View All Transactions feature is not yet implemented.");
+    Console.WriteLine("Press any key to return to the menu.");
+    Console.ReadKey();
+}
+
+/// <summary>
+/// Placeholder method for displaying the budget summary.
+/// </summary>
+private static void DisplaySummary()
+{
+    Console.Clear();
+    Console.WriteLine("View Balance Summary feature is not yet implemented.");
+    Console.WriteLine("Press any key to return to the menu.");
+    Console.ReadKey();
+}
+
+#endregion
