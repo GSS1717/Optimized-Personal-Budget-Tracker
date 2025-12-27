@@ -21,16 +21,30 @@ private static readonly BudgetService _budgetService = new BudgetService(loadedT
 // For example:
 Console.WriteLine("Welcome to the Personal Budget Tracker!");
 Console.WriteLine("All data has been loaded successfully.");
+Console.WriteLine("Press any key to enter the main menu...");
+Console.ReadKey(); // Wait for user to acknowledge the welcome message
 
 // This is the main application loop. It will run indefinitely until the user
 // chooses to exit, which we will implement later.
 while (true)
 {
-    // In the upcoming tasks, this is where we will clear the console,
-    // display the menu, and handle user input.
+    // On each iteration, first clear the console to keep the display clean.
+    Console.Clear();
 
-    // For now, this loop is the foundational structure that keeps our application alive.
-    // We'll add a temporary halt to prevent it from spinning infinitely fast
-    // and consuming CPU. This line can be removed once we add input handling.
-    System.Threading.Thread.Sleep(5000); // Wait for 5 seconds
+    // Now, display the main menu options to the user.
+    Console.WriteLine("=====================================");
+    Console.WriteLine("   Personal Budget Tracker Menu");
+    Console.WriteLine("=====================================");
+    Console.WriteLine("1. Add Income");
+    Console.WriteLine("2. Add Expense");
+    Console.WriteLine("3. View All Transactions");
+    Console.WriteLine("4. View Balance Summary");
+    Console.WriteLine("5. Save & Exit");
+    Console.WriteLine("=====================================");
+    Console.Write("Please select an option: "); // Use Console.Write to keep cursor on same line
+                                                // highlight-end
+
+    // The code to read and handle user input will go here in the next task.
+    // For now, we will add a temporary ReadKey to pause the loop.
+    Console.ReadKey();
 }
