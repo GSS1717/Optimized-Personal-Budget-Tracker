@@ -43,7 +43,7 @@ while (true)
     Console.WriteLine("=====================================");
     Console.Write("Please select an option: "); // Use Console.Write to keep cursor on same line
                                                 // highlight-end
-
+    string userChoice = Console.ReadLine();
     // The code to read and handle user input will go here in the next task.
     // For now, we will add a temporary ReadKey to pause the loop.
     Console.ReadKey();
