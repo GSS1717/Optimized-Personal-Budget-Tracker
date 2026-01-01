@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{FA7ED792-90BF-44E1-B4B6-AD40593A95DC}|Optimized Personal Budget Tracker.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7ED792-90BF-44E1-B4B6-AD40593A95DC}|Optimized Personal Budget Tracker.csproj|e:\\optimized-personal-budget-tracker\\optimized personal budget tracker\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA7ED792-90BF-44E1-B4B6-AD40593A95DC}|Optimized Personal Budget Tracker.csproj|E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA7ED792-90BF-44E1-B4B6-AD40593A95DC}|Optimized Personal Budget Tracker.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -53,8 +53,7 @@
               "ToolTip": "E:\\Optimized-Personal-Budget-Tracker\\Optimized Personal Budget Tracker\\Form4.cs [Design]",
               "RelativeToolTip": "Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T15:31:02.158Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-30T15:31:02.158Z"
             },
             {
               "$type": "Document",
