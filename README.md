@@ -1,2 +1,2 @@
 # Optimized-Personal-Budget-Tracker
-Using Java, HTML, CSS, JavaScript, Mysql, Bootstrap
+Using React.js, HTML, CSS, JavaScript, Mysql, Bootstrap
