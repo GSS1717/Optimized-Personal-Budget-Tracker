@@ -1,2 +1,2 @@
 # Optimized-Personal-Budget-Tracker
-Using C#.NET 
+Using Java, HTML, CSS, JavaScript, Mysql, Bootstrap
